@@ -1,0 +1,15 @@
+D:\Gabriel\Desktop\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.exe
+D:\Gabriel\Desktop\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.deps.json
+D:\Gabriel\Desktop\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.runtimeconfig.json
+D:\Gabriel\Desktop\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.dll
+D:\Gabriel\Desktop\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.pdb
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.csproj.AssemblyReference.cache
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.AssemblyInfoInputs.cache
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.AssemblyInfo.cs
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.csproj.CoreCompileInputs.cache
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.dll
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\refint\ProjetoJogoRPG.dll
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.pdb
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.genruntimeconfig.cache
+D:\Gabriel\Desktop\ProjetoJogoRPG\obj\Debug\net6.0\ref\ProjetoJogoRPG.dll
